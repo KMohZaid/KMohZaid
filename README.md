@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
   
 
@@ -63,10 +63,6 @@
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmohzaid&column=5" alt="KMohZaid's github trophy"></a>
 </div>
-
-## WakaTime
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <br/>
 <div align="center">
