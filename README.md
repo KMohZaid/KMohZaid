@@ -99,7 +99,7 @@
 </p>
 
 ---
-## NOTE : Below badges don't have learn/source/offcial website/docs link
+## NOTE : Below badges don't have learn/source/offcial website/docs link currently
 
 ### 🗄️ Databases and cloud hosting
 
