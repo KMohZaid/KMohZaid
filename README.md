@@ -64,7 +64,12 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmohzaid&column=5" alt="KMohZaid's github trophy"></a>
 </div>
 
+## Graph 📉📈
+<div align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph?username=kmohzaid&custom_title=KMohZaid&#39;s%20Contribution%20Graph&theme=github" alt="KMohZaid&#39;s Contribution Graph"></a>
+</div>
+
 <br/>
 <div align="center">
-<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=KMohZaid&&style=flat-square" align="center" /></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=KMohZaid&style=flat-square" align="center" /></a>
 </div>
