@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm KMohZaid, a developer 👨‍💻 who like Python + Javascript 🚀🤖</div>  
+### <div align="center">I'm KMohZaid, a developer + cyber... 👨‍💻 who like Python + Javascript 🚀🤖</div>  
   
 
 - 🔭 I’m currently working on [None || null ](#)🙃  
   
 
-- 📚I’m currently learning Programming languages  
+- 📚I’m currently learning Programming languages  **&& Cybersecurity stuff :computer::performing_arts::shield:**
   
 
 - ❓ Ask me about anything that i know😆  
