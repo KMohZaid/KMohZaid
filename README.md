@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/KMohZaid/KMohZaid/assets/68484509/780b5943-43ed-4c75-bb68-ebd6d3e65492" align="center" style="width: 75%" />
+<img src="./greetings.gif" align="center" style="width: 75%" />
 </div>  
   
 
