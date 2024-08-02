@@ -64,3 +64,28 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kmohzaid&column=5" alt="KMohZaid's github trophy">
   </a>
 </div>
+
+## Metrics ⚡️
+
+<div align="center">
+ <table>
+   <tr>
+     <td rowspan=2> <img src="./metrics.classic.svg" alt="classic" /> </td>
+     <td> 
+	     <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="fullyear" /> 
+     </td>
+   </tr>
+   <tr>
+	   <td>
+       <!-- <img src="./metrics.plugin.languages.svg" alt="languages" /> -->
+       <img src="./metrics.plugin.anilist.svg" alt="anilist" />
+     </td> 
+   </tr>
+   <tr>
+	   <td rowspan="2"><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
+   </tr>
+   <tr>
+	   <td><img src="./metrics.plugin.achievements.svg" alt="achievements" /></td> 
+   </tr>
+ </table>
+</div>
