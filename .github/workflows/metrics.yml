@@ -1,8 +1,8 @@
 # https://github.com/lowlighter/metrics
 name: Metrics
 on:
-  # Schedule hourly updates
-  schedule: [{cron: "0 * * * *"}]
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
