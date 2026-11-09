@@ -43,15 +43,9 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://github.com/KMohZaid">
-      <img alt="KMohZaid's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=KMohZaid&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/>
-    </a>
-    <a href="https://github.com/KMohZaid">
-      <img alt="KMohZaid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=KMohZaid&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    </a>
-    <a href="https://github.com/KMohZaid">
-      <img alt="KMohZaid's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KMohZaid&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" />
-    </a>
+    <img alt="KMohZaid's Github Stats" src="https://github-stats-extended.vercel.app/api?username=KMohZaid&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=material-palenight" height="192px"/>
+    <img alt="KMohZaid's Top Languages" src="TODO" height="192px"/>
+    <img alt="KMohZaid's Contribution Graph" src="TODO" />
   </p>
 </div>
 
