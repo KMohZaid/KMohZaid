@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kmohzaid&column=5" alt="KMohZaid's github trophy">
+    <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=KMohZaid&theme=dracula&column=5" alt="KMohZaid's github trophy">
   </a>
 </div>
 
