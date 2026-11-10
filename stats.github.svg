@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KMohZaid&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 14, Total Contributions: 4629, Total Commits  : 2719, Total PRs: 98, Total PRs Merged: 67, Merged PRs Percentage: 68.37, Total PRs Reviewed: 6, Total Issues: 47, Total Discussions Started: 1, Total Discussions Answered: 0, PRs Commented: 13, PRs Reviewed: 8, Issues Commented: 31, Contributed to (last year): 26, Contributed to (all time): 69</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Contributions: 4640, Total Commits  : 2728, Total PRs: 98, Total PRs Merged: 67, Merged PRs Percentage: 68.37, Total PRs Reviewed: 6, Total Issues: 47, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 13, PRs Reviewed: 8, Issues Commented: 31, Contributed to (last year): 26, Contributed to (all time): 69</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 99.44278916454955;
+        stroke-dashoffset: 99.40322499167642;
       }
     }
   
@@ -119,7 +119,7 @@
           stroke="#e4e2e2"
           width="466"
           fill="#292d3e"
-          stroke-opacity="1"
+          stroke-opacity="0"
         />
 
         
@@ -289,7 +289,7 @@
         x="224.01"
         y="12.5"
         data-testid="discussions_started"
-      >1</text>
+      >2</text>
     </g>
   </g><g transform="translate(0, 225)">
     <g class="stagger" style="animation-delay: 1800ms" transform="translate(25, 0)">
