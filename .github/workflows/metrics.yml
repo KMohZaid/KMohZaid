@@ -92,7 +92,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 8
       - name : Anilist
         uses: gh-metrics/metrics@master
         with:
@@ -104,12 +104,12 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_shuffle: yes
-      # - name: LeetCode
-      #   uses: gh-metrics/metrics@master
-      #   with:
-      #     filename: metrics.plugin.leetcode.svg
-      #     token: NOT_NEEDED
-      #     base: ""
-      #     plugin_leetcode: yes
-      #     plugin_leetcode_user: KMohZaid
-      #     plugin_leetcode_sections: solved, skills, recent
+      - name: LeetCode
+        uses: gh-metrics/metrics@master
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: KMohZaid
+          plugin_leetcode_sections: solved, skills, recent

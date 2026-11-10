@@ -78,9 +78,10 @@
    </tr>
    <tr>
 	   <td rowspan="2"><img src="./metrics.plugin.stars.svg" alt="stars" /></td> 
+	   <td><img src="./metrics.plugin.achievements.svg" alt="achievements" /></td> 
    </tr>
    <tr>
-	   <td><img src="./metrics.plugin.achievements.svg" alt="achievements" /></td> 
+	   <td><img src="./metrics.plugin.leetcode.svg" alt="LeetCode" /></td> 
    </tr>
  </table>
 </div>
