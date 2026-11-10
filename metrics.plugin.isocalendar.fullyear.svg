@@ -2001,10 +2001,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5346534653465347 0,1.5346534653465347 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5346534653465347 1.7,2.5346534653465347 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.0495049504950495)">
+                            <g transform="translate(-1.7, 5.99009900990099)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.9504950495049505 0,1.9504950495049505 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.9504950495049505 1.7,2.9504950495049505 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.00990099009901 0,2.00990099009901 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.00990099009901 1.7,3.00990099009901 z"/>
                             </g>
                         </g>
                     </g>
