@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm KMohZaid, a developer + cyber... 👨‍💻 who likes Python + JavaScript 🚀🤖</div>
 
-- 🔭 I’m currently working on [None || null ](#) 🙃
+- 🔭 I’m currently working on many things randomly. 🙃
 
 - 📚 I’m currently learning Programming languages **&& Cybersecurity stuff :computer::performing_arts::shield:**
 
