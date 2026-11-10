@@ -43,8 +43,8 @@
 
 <div align="center">
   <p align="center">
-    <img alt="KMohZaid's Github Stats" src="./stats.github.svg" height="192px"/>
-    <img alt="KMohZaid's Top Languages" src="./stats.github-lang.svg" height="192px"/>
+    <img alt="KMohZaid's Github Stats" src="./stats.github.svg" height="290px"/>
+    <img alt="KMohZaid's Top Languages" src="./stats.github-lang.svg" height="290px"/>
     <img alt="KMohZaid's Contribution Graph" src="TODO" />
   </p>
 </div>
