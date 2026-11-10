@@ -1,0 +1,54 @@
+name: Update GitHub Stats SVGs
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@master
+        with:
+          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal token
+          fetch-depth: 0             # otherwise, you will fail to push refs to dest repo
+
+      - name: Fetch configured SVGs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          config="stats-sources.json"
+          jq -e '
+            (.stats | type == "array" and length > 0) and
+            all(.stats[];
+              (.url | type == "string" and length > 0) and
+              (.filename | type == "string" and test("^[A-Za-z0-9._-]+\\.svg$") and . != ".svg" and . != "..svg")
+            ) and
+            (([.stats[].filename] | length) == ([.stats[].filename] | unique | length))
+          ' "$config" >/dev/null
+
+          while IFS= read -r item; do
+            url=$(jq -r '.url' <<<"$item")
+            filename=$(jq -r '.filename' <<<"$item")
+
+            curl --fail --location --silent --show-error --output "$filename" "$url"
+            if ! perl -0777 -ne 'exit(/\A\s*(?:<\?xml\b[^?]*\?>\s*)?<svg\b/s ? 0 : 1)' "$filename"; then
+              echo "Response for $filename is not an SVG document" >&2
+              exit 1
+            fi
+          done < <(jq -c '.stats[]' "$config")
+
+      
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.METRICS_TOKEN }} # i should upload github token named secret instead..
+          message: "chore: update Github stas SVG"
