@@ -47,8 +47,16 @@ jobs:
           done < <(jq -c '.stats[]' "$config")
 
       
+      - name: Generate activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5
+          output_path: stats.github-activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit & Push changes
         uses: actions-js/push@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          message: "chore: update Github stas SVG"
+          message: "chore: update Github stats SVG"

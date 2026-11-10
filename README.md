@@ -45,7 +45,8 @@
   <p align="center">
     <img alt="KMohZaid's Github Stats" src="./stats.github.svg" height="290px"/>
     <img alt="KMohZaid's Top Languages" src="./stats.github-lang.svg" height="290px"/>
-    <img alt="KMohZaid's Contribution Graph" src="TODO" />
+    <br/>
+    <img alt="KMohZaid's Contribution Graph" src="stats.github-activity-graph.svg" align='center'/>
   </p>
 </div>
 
