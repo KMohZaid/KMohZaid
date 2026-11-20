@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KMohZaid&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 14, Total Contributions: 4642, Total Commits  : 2734, Total PRs: 98, Total PRs Merged: 67, Merged PRs Percentage: 68.37, Total PRs Reviewed: 6, Total Issues: 49, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 13, PRs Reviewed: 8, Issues Commented: 31, Contributed to (last year): 28, Contributed to (all time): 71</desc>
+        <desc id="descId">Total Stars Earned: 14, Total Contributions: 4646, Total Commits  : 2732, Total PRs: 98, Total PRs Merged: 67, Merged PRs Percentage: 68.37, Total PRs Reviewed: 6, Total Issues: 53, Total Discussions Started: 2, Total Discussions Answered: 0, PRs Commented: 14, PRs Reviewed: 8, Issues Commented: 31, Contributed to (last year): 30, Contributed to (all time): 73</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 99.11886703584183;
+        stroke-dashoffset: 98.56250122006466;
       }
     }
   
@@ -274,7 +274,7 @@
         x="224.01"
         y="12.5"
         data-testid="issues"
-      >49</text>
+      >53</text>
     </g>
   </g><g transform="translate(0, 200)">
     <g class="stagger" style="animation-delay: 1650ms" transform="translate(25, 0)">
@@ -319,7 +319,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_commented"
-      >13</text></a>
+      >14</text></a>
     </g>
   </g><g transform="translate(0, 275)">
     <g class="stagger" style="animation-delay: 2100ms" transform="translate(25, 0)"><a href="https://github.com/search?q=reviewed-by%3AKMohZaid+-author%3AKMohZaid&amp;type=pullrequests">
@@ -364,7 +364,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >28</text>
+      >30</text>
     </g>
   </g><g transform="translate(0, 350)">
     <g class="stagger" style="animation-delay: 2550ms" transform="translate(25, 0)">
@@ -379,7 +379,7 @@
         x="224.01"
         y="12.5"
         data-testid="all_time_contribs"
-      >71</text>
+      >73</text>
     </g>
   </g>
     </svg>
